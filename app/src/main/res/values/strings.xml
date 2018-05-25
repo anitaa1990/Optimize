@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OptimizeSDKSample</string>
+
+
+    <string name="btn_local">Fetch data from local</string>
+    <string name="btn_remote">Fetch data from remote</string>
+    <string name="string_data">This is the local string that is fetched from strings.xml file</string>
+
+    <string-array name="list">
+        <item>January</item>
+        <item>March</item>
+        <item>May</item>
+        <item>July</item>
+        <item>August</item>
+        <item>October</item>
+        <item>December</item>
+    </string-array>
+
+
+</resources>
