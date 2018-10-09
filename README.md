@@ -1,6 +1,6 @@
 # Optimize
-<img src="https://img.shields.io/badge/API-14%2B-orange.svg?style=flat" alt="API" data-canonical-src="https://img.shields.io/badge/API-14%2B-orange.svg?style=flat" style="max-width:100%;">
-Android library for displaying data based on JSON configuration fetched from server.</br> 
+<img src="https://img.shields.io/badge/API-14%2B-orange.svg?style=flat" alt="API" data-canonical-src="https://img.shields.io/badge/API-14%2B-orange.svg?style=flat" style="max-width:100%;"> <a href="https://android-arsenal.com/details/1/7135"><img src="https://img.shields.io/badge/Android%20Arsenal-Optimize%20SDK-green.svg?style=flat" alt="Android Arsenal" data-canonical-src="https://img.shields.io/badge/Android%20Arsenal-Optimize%20SDK-green.svg?style=flat" style="max-width:100%;"></a></br>
+Android library for displaying data based on JSON configuration fetched from server.</br></br> 
 With this library, you can kiss goodbye to string.xml, dimen.xml, arrays.xml. Keep all your string/integer/array config in one file. The library will automatically fetch the data from the url you provide. </br></br> 
 
 
